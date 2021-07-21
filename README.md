@@ -1,3 +1,5 @@
+# Movie App using react
+
 ## Project setup
 
 ### `npm install`
